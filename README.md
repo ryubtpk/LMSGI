@@ -1,2 +1,2 @@
-# Mi-primer-repo
+# LMSGI
 Repository of example
